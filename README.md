@@ -9,3 +9,7 @@ Trabalhar na estruturação do código e aprender um pouco mais sobre componente
 
 ## 🧐 Aprendizado
 Componentizar o código
+
+## Preview
+
+<img src="./public/assets/demo.gif">
